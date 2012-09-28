@@ -24,7 +24,10 @@ SUMMARY-My goal is to work as a technical writer for a major gaming company. I w
 
 >
 
-EXPERIENCE-**Chipco Computers**
+EXPERIENCE
+============
+
+**Chipco Computers**
 
 Marketing
 
@@ -38,7 +41,9 @@ Communicated with Intel and Microsoft for their and our conventions
 
 
 
-PROJECTS-**Pinboard Project**
+PROJECTS
+============
+**Pinboard Project**
 
 Timeline: August 2012 - Currently
 
@@ -72,7 +77,9 @@ Site: http://projecthawkthorne.com/
 
 -
 
-EDUCATION-**University of South Carolina** **2014**
+EDUCATION
+============
+**University of South Carolina** **2014**
 
 Computer Engineering
 
