@@ -1,17 +1,12 @@
-araam-resume
+My Resume
 ============
 
 
--**ARAAM VAFAI BORHANIAN
-**
--2177 Hayes Drive, Rock Hill SC 29732
-
+**ARAAM VAFAI BORHANIAN**
+2177 Hayes Drive, Rock Hill SC 29732
 803-981-3148
-
 avborhanian@gmail.com  
 
--**
-**
 SUMMARY-My goal is to work as a technical writer for a major gaming company. I would like my job to make use of my ability to easily understand other people and my ability to communicate quickly. I want to be challenged to identify possible problems in the development process, and I want the ability to be able to fix them quickly.
 
 
