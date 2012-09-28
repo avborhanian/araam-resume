@@ -13,9 +13,10 @@ SUMMARY-My goal is to work as a technical writer for a major gaming company. I w
 
 
 
+SKILLS
+============
 
-
-*    SKILLS-Technical Writer
+*    Technical Writer
 *    Communication Skills
 *    Intimate Familiarity with Agile Software Development, including Scrum
 *    All Microsoft Office Products
