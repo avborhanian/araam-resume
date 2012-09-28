@@ -75,7 +75,6 @@ https://github.com/kyleconroy/hawkthorne-journey
 
 Site: http://projecthawkthorne.com/
 
--
 
 EDUCATION
 ============
@@ -86,7 +85,3 @@ Computer Engineering
 2010-Current
 
 GPA: 3.0
-
--**
-**
-
