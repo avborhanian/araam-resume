@@ -1,10 +1,12 @@
 My Resume
 ============
 
-
 **ARAAM VAFAI BORHANIAN**
+
 2177 Hayes Drive, Rock Hill SC 29732
+
 803-981-3148
+
 avborhanian@gmail.com  
 
 SUMMARY-My goal is to work as a technical writer for a major gaming company. I would like my job to make use of my ability to easily understand other people and my ability to communicate quickly. I want to be challenged to identify possible problems in the development process, and I want the ability to be able to fix them quickly.
@@ -16,7 +18,7 @@ SUMMARY-My goal is to work as a technical writer for a major gaming company. I w
 *    SKILLS-Technical Writer
 *    Communication Skills
 *    Intimate Familiarity with Agile Software Development, including Scrum
-*    -All Microsoft Office Products
+*    All Microsoft Office Products
 *    Great Problem Solving Skills
 
 
@@ -47,8 +49,7 @@ https://github.com/CSCE242/pinboard-dobbybabee
 Site: dobbybabee-pinterest.com
 
 
-**
-****Laser Cats**
+**Laser Cats**
 
 Timeline: June 2012 - Currently
 
@@ -59,8 +60,7 @@ https://github.com/dobbybabee/Laser-Cats
 (Search for Chibi Robo on Android Play Market to find game)
 
 
-**
-****Hawkthorne Journey**
+**Hawkthorne Journey**
 
 Timeline: Fall 2011 – Spring 2012
 
